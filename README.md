@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ayush-rastogi-467448177/](https://www.linkedin.com/in/ayush-rastogi-467448177/)
+- 👨‍💻 All of my projects are available at --
 
 - 💬 Ask me about **JavaScript & React**
 
