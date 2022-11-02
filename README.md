@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Rastogi</h1>
 <h3 align="center">A Software Developer from India</h3>
-<img align="center" alt="developer coding stuff" width="400" src="https://developergifs.netlify.app/gifs/developer%20coding%20stuff.gif">
+<img style ="display: block; margin-left: auto; margin-right: auto; justify-content: center;" alt="developer coding stuff" width="550" src="https://developergifs.netlify.app/gifs/developer%20coding%20stuff.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrastogi689&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrastogi689" /> </p>
 
