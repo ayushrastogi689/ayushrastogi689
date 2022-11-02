@@ -1,4 +1,4 @@
-[![MasterHead](https://developergifs.netlify.app/gifs/JavaScript.gif)]
+![MasterHead](https://developergifs.netlify.app/gifs/JavaScript.gif)
 
 <h1 align="center">Hi 👋, I'm Ayush Rastogi</h1>
 <h3 align="center">A Software Developer from India</h3>
