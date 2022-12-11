@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Ayush Rastogi</h1>
 <h3 align="center">A Software Developer from India</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Content+Writer;Tech-savvy+person+from+India)](https://git.io/typing-svg)
 <img style ="display: block; margin-left: auto; margin-right: auto; justify-content: center;" alt="developer coding stuff" width="550" src="https://developergifs.netlify.app/gifs/developer%20coding%20stuff.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushrastogi689&label=Profile%20views&color=0e75b6&style=flat" alt="ayushrastogi689" /> </p>
