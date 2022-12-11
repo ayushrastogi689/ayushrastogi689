@@ -1,9 +1,9 @@
 ![MasterHead](https://developergifs.netlify.app/gifs/JavaScript.gif)
-<div id="top">
+<div id="top"></div>
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Ayush Rastogi</h1>
 <h2 align="center">A Software Developer from India</h2>
 <p align="center">
-</div>
+
 <img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Learner!;I+develop+mordern+Front+End+apps.;I+design+Dynamic+User+Experience.;I+am+a+Open+Source+Contributor!;Nice+to+meet+you...!;&font=comfortaa&color=016EEA&center=true&size=23&width=500&height=50">
 
 </p>
