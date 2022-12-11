@@ -1,10 +1,10 @@
 ![MasterHead](https://developergifs.netlify.app/gifs/JavaScript.gif)
 
 <h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>, I'm Ayush Rastogi</h1>
-<h3 align="center">A Software Developer from India</h3>
+<h2 align="center">A Software Developer from India</h2>
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Learner!;I+develop+mordern+Front+End+apps.;I+design+Dynamic+User+Experience.;I+am+a+Open+Source+Contributor!;Nice+to+meet+you...!;&font=comfortaa&color=016EEA&center=true&width=380&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Learner!;I+develop+mordern+Front+End+apps.;I+design+Dynamic+User+Experience.;I+am+a+Open+Source+Contributor!;Nice+to+meet+you...!;&font=comfortaa&color=016EEA&center=true&size=23&width=500&height=50">
 
 </p>
 <img style ="display: block; margin-left: auto; margin-right: auto; justify-content: center;" alt="developer coding stuff" width="550" src="https://developergifs.netlify.app/gifs/developer%20coding%20stuff.gif">
