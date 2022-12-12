@@ -4,7 +4,7 @@
 <h2 align="center">A Software Developer from India</h2>
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Passionate+Learner!;I+develop+mordern+Front+End+apps.;I+design+Dynamic+User+Experience.;I+am+a+Open+Source+Contributor!;Nice+to+meet+you...!;&font=comfortaa&color=016EEA&center=true&size=23&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+Passionate+Learner!;I+develop+modern+Front+End+apps.;I+design+Dynamic+User+Experience.;I+am+a+Open+Source+Contributor!;Nice+to+meet+you...!;&font=comfortaa&color=016EEA&center=true&size=23&width=500&height=50">
 
 </p>
 <img style ="display: block; margin-left: auto; margin-right: auto; justify-content: center;" alt="developer coding stuff" width="550" src="https://developergifs.netlify.app/gifs/developer%20coding%20stuff.gif">
