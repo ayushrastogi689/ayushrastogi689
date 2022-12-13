@@ -37,8 +37,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrastogi689&show_icons=true&locale=en&layout=compact" alt="ayushrastogi689" /></p>
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=016EEA&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
+<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=Back+to+top&color=016EEA&style=flat&logo" alt="back to top" /></a></p>
