@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently working as a **Software Developer in SITA**
 
-- 👨‍💻 All of my projects are available at --
+- 👨‍💻 All of my projects are available at -- Will be updated soon
 
 - 💬 Ask me about **JavaScript & React**
 
