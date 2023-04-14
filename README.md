@@ -16,7 +16,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align='right' src='https://raw.githubusercontent.com/adityagarde/adityagarde/main/resources/git.gif' width="225" height="225">
 
-- 🌱 I’m currently working as a **Software Developer in SITA**
+- 🌱 I’m currently **Open to Work as a Frontend Developer**
 
 - 👨‍💻 All of my projects are available at -- Will be updated soon
 
