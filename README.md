@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently **Open to Work as a Frontend Developer**
 
-- 👨‍💻 All of my projects are available at -- Will be updated soon
+- 👨‍💻 All of my projects are available in Github repo with its Live Links.
 
 - 💬 Ask me about **JavaScript & React**
 
